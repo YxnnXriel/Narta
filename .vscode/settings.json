@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "str.h": "c",
+        "stdbool.h": "c",
+        "narta.h": "c",
+        "token.h": "c",
+        "lexer.h": "c"
+    }
+}
